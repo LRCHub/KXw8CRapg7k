@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "We Are The Champions",
+  "base_artist": "Queen",
+  "createdAt": "2026-02-21T03:18:39.577105Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Are The Champions",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/01_We_Are_The_Champions_Queen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Are the Champions",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/02_We_Are_the_Champions_Queen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Are The Champions",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/03_We_Are_The_Champions_Queen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Are The Champions",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/04_We_Are_The_Champions_Queen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Are The Champions",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/05_We_Are_The_Champions_Queen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We Are the Champions",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/06_We_Are_the_Champions_Queen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We Are the Champions",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/07_We_Are_the_Champions_Queen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Are The Champions",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/08_We_Are_The_Champions_Queen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We Are The Champions",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/09_We_Are_The_Champions_Queen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We Are The Champions",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/10_We_Are_The_Champions_Queen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Are The Champions",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/11_We_Are_The_Champions_Queen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "we are the champions",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/12_we_are_the_champions_Queen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We Are The Champions",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/13_We_Are_The_Champions_Queen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "We Are The Champions",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/14_We_Are_The_Champions_Queen.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "We Are The Champions",
+      "artist": "Verschiedene",
+      "has_synced": true,
+      "path": "select/15_We_Are_The_Champions_Verschiedene.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We Are The Champions",
+      "artist": "Queen",
+      "has_synced": false,
+      "path": "select/pl_01_We_Are_The_Champions_Queen.txt"
+    }
+  ]
+}
